@@ -1,0 +1,70 @@
+.conteprincipal{
+  width: 100%;
+  height: 100vh; /* 100% de la altura visible del navegador */
+  background-color: #f0f0f0; /* gris claro */
+
+}
+
+
+#titu1 {
+    display: flex;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+
+}
+.imagenp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  margin: 0 auto;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+.encaprincipal{
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.encabezadoimg{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin: 10px;
+
+}
+.numeracion{
+  display: flex;
+  justify-content:flex-end;
+  align-items: center;
+  margin: 10px;
+}
+
+.piedeimage {
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  
+}
+.textimage{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin: 10px;
+}
